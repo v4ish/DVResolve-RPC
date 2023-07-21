@@ -1,5 +1,5 @@
 # [DVResolve-RPC](https://github.com/v4ish/rpc)
-Discord Rich presence for DaVinci Resolve written in c#
+Discord Rich presence for [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) written in c#
 
 ## Features
 
