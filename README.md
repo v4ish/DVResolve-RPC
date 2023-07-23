@@ -38,3 +38,9 @@ Discord Rich presence for [DaVinci Resolve](https://www.blackmagicdesign.com/pro
 #### How much memory does it use?
 
 Uses 21MB of memory
+
+## Development
+``` bash
+Application ID: "1131090005872349215"
+Large_image: "main"
+```
