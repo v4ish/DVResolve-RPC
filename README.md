@@ -32,7 +32,7 @@ Discord Rich presence for [DaVinci Resolve](https://www.blackmagicdesign.com/pro
 
 #### Discord server?
 
-[Discord](https:dsc.gg/v4ish)
+[Discord](https://dsc.gg/v4ish)
 
 #### How much memory does it use?
 
