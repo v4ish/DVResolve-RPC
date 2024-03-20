@@ -5,7 +5,7 @@ Discord Rich presence for [DaVinci Resolve](https://www.blackmagicdesign.com/pro
 
 - Definetly Lightweight 
 - Supported os: Windows
-- Runs on x86, x64 architecture
+- Runs on all architecture
 
 
 ## Screenshots
