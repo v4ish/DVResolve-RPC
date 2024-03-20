@@ -27,12 +27,12 @@ Discord Rich presence for [DaVinci Resolve](https://www.blackmagicdesign.com/pro
 
 #### How do i know it's not malicous?
 
-[Virus Total Scan](https://www.virustotal.com/gui/file/51a2c3e1d2783c04fa529fa020561934f6f76d9e457e02f78cb27f622353d916?nocache=1)
+[Virus Total Scan](https://www.virustotal.com/gui/file/61b138047fdc2f8b50268c7e15cdc8e10c11522ff85513e996807df2c902eccc?nocache=1)
 
 
 #### Discord server?
 
-[Discord](https://discord.gg/37uTqAhkms)
+[Discord](https:dsc.gg/v4ish)
 
 #### How much memory does it use?
 
