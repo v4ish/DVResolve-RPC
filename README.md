@@ -10,9 +10,9 @@ Discord Rich presence for [DaVinci Resolve](https://www.blackmagicdesign.com/pro
 
 ## Screenshots
 
-<img src="https://github.com/v4ish/RPC/blob/main/Screenshots/davinci2.png" alt="logo" width="300"/>
-
 <img src="https://github.com/v4ish/RPC/blob/main/Screenshots/davinci.png" alt="logo" width="300"/>
+
+<img src="https://github.com/v4ish/RPC/blob/main/Screenshots/davinci2.png" alt="logo" width="300"/>
 
 
 
