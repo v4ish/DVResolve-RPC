@@ -3,9 +3,9 @@ Discord Rich presence for [DaVinci Resolve](https://www.blackmagicdesign.com/pro
 
 ## Features
 
-- Definetly Lightweight 
-- Supported os: Windows
-- Runs on all architecture
+- Super lightweight 
+- Supported OS: Windows
+- Runs on all CPU architecture
 
 
 ## Screenshots
@@ -18,7 +18,7 @@ Discord Rich presence for [DaVinci Resolve](https://www.blackmagicdesign.com/pro
 
 ## Installation
 
-[Requires .net 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+[Requires .net 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 [Download from releases](https://github.com/v4ish/DVResolve-RPC/releases/latest)
 
@@ -27,16 +27,16 @@ Discord Rich presence for [DaVinci Resolve](https://www.blackmagicdesign.com/pro
 
 #### How do i know it's not malicous?
 
-[Virus Total Scan](https://www.virustotal.com/gui/file/61b138047fdc2f8b50268c7e15cdc8e10c11522ff85513e996807df2c902eccc?nocache=1)
+[Virus Total Scan](https://www.virustotal.com/gui/file/072ae063625482dc3918e8e5af3d03c39778fdd599dab11025f9e2e136ec7f06?nocache=1)
+
+#### How much memory does it use?
+
+- 24MB
 
 
 #### Discord server?
 
 [Discord](https://dsc.gg/v4ish)
-
-#### How much memory does it use?
-
-Uses 21MB of memory
 
 ## Development
 ``` bash
