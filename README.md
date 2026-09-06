@@ -34,6 +34,10 @@ Discord Rich presence for [DaVinci Resolve](https://www.blackmagicdesign.com/pro
 - 24MB
 
 
+### Todo
+- [ ] System Tray Integration
+- [ ] Cleanup
+
 #### Discord server?
 
 [Discord](https://dsc.gg/v4ish)
